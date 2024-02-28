@@ -63,10 +63,6 @@ pip install -r requirements.txt
 
 Contributions, issues, and feature requests are welcome. Feel free to check [issues page] for a list of known issues or to report new ones.
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## Acknowledgments
 
 - Special thanks to the VGGFace project for providing the foundational model architecture.
