@@ -54,8 +54,8 @@ The project includes detailed Jupyter notebooks (`model_age_regression.ipynb`, `
 Clone this repository and install the dependencies:
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/mustafa-hiri/AgeGenderRacePredictor-
+cd AgeGenderRacePredictor-
 pip install -r requirements.txt
 ```
 
